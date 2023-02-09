@@ -1,0 +1,23 @@
+id: 2885784d8687414598f3c74ee34de09a
+annotation_type: index
+revision: '00001'
+annotations:
+  1943de78c22a4ee69f868eed6395b8cf:
+    base: C018.txt
+    Chapters:
+    - title: Piṇḍoddāna
+      span:
+        start: 0
+        end: 154
+    - title: Uddāna 1
+      span:
+        start: 155
+        end: 22918
+    - title: Uddāna 2
+      span:
+        start: 22919
+        end: 38093
+    - title: Uddāna 3
+      span:
+        start: 38094
+        end: 42777
